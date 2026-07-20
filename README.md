@@ -104,12 +104,3 @@ confirming USART1 is transmitting correctly on the unconfigured default clock.
 - [ ] Add RX handling (currently TX-only)
 - [ ] Add a PLL-configured variant to compare against the raw 8 MHz baseline
 
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
-
----
-
-<div align="center">
-<sub>Built and maintained by <a href="https://github.com/keshavv9369">keshavv9369</a></sub>
-</div>
